@@ -1,0 +1,10 @@
+#adminmenu ul.wp-submenu li a span.wpfront-go-pro {
+    color: #F18500;
+}
+
+#wp-admin-bar-wp-logo{
+	display: none;
+}
+#wpfooter{
+    display: none;
+}
